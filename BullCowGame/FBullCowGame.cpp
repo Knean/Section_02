@@ -17,7 +17,7 @@ void FBullCowGame::Reset()
 
 	return;
 }
-
+//sdfdsfdsfsdf
 int32 FBullCowGame::GetMaxTries()const
 {
 	return MyMaxTries;
